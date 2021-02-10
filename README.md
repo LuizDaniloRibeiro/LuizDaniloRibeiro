@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello! I'm Luiz Danilo 💻</h1>
 
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sprucegabriela&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
 
 
-- ⚡ Fun fact **I love oldschool and 2D games, so I'am studying game development at Cruzeiro do Sul**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
