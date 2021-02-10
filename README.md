@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello! I'm Luiz Danilo 💻</h1>
 
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sprucegabriela&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuizDaniloRibeiro&label=Profile%20views&color=0e75b6&style=flat" alt="LuizDaniloRibeiro" /> </p>
 </br>
 
 - 🌱 I’m currently a student of Systems Analysis and Development at Fatec Itu.
