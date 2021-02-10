@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working at [B8One](https://www.b8one.com/)
 - 📝 I have a YouTube channel for front-end content [https://www.youtube.com/GabrielaPinheiro](https://www.youtube.com/GabrielaPinheiro)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sprucegabriela&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
 -->
 <h1 align="center">Hello! I'm Luiz Danilo 💻</h1>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sprucegabriela&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
 
 
+- 🌱 I’m currently a student of Systems Analysis and Development at Fatec Itu.
 
 
 <h3 align="left">Connect with me:</h3>
