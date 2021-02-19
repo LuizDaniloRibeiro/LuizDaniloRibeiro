@@ -6,7 +6,7 @@
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuizDaniloRibeiro&label=Profile%20views&color=0e75b6&style=flat" alt="LuizDaniloRibeiro" /> </p>
-</br>
+</br></br></br>
 
 
 
@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/luiz-danilo-ribeiro-9b977313a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabrielapinheiro129" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_daniloribeiro_/?hl=pt-br" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ga.brielapinheiro" height="30" width="40" /></a>
 </p>
-
+</br></br>
 
 
 ## ⚡ Tecnologias
