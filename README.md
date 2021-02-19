@@ -10,8 +10,9 @@
 
 
 
-## 📚 I’m currently a student of Systems Analysis and Development at Fatec Itu.
+## 📚 Analysis and systems development 
 
+</br>
 
 
 <h3 align="left">Connect with me:</h3>
