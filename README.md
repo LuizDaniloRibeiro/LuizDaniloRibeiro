@@ -6,7 +6,7 @@
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuizDaniloRibeiro&label=Profile%20views&color=0e75b6&style=flat" alt="LuizDaniloRibeiro" /> </p>
-</br></br></br>
+</br>
 
 
 
