@@ -42,11 +42,7 @@
 
 </br>
 
-<div> 
- 
-  ![Snake animation](https://github.com/LuizDaniloRibeiro/LuizDaniloRibeiro/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
 
  
 
